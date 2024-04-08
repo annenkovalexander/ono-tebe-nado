@@ -1,1 +1,1 @@
-ono-tebe-nado
+git@github.com:annenkovalexander/ono-tebe-nado.git
